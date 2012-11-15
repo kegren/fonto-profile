@@ -1,0 +1,9 @@
+*.TODO
+/vendor/composer
+/vendor/php-activerecord
+/vendor/twig
+/vendor/fonto
+.DS_Store
+.idea
+/.idea
+/vendor/hautelook

@@ -1,0 +1,36 @@
+/**
+ * Part of Fonto Framework
+ */
+
+.fontoContainer {
+	margin: 0 auto;
+	width: 960px;
+	border-radius: 4px;
+}
+
+.fontoContainer header {
+	border-bottom: 1px solid #ddd;
+}
+
+span.text-error {
+    color: #B94A48;
+}
+
+h1 {
+	font-size: 22px;
+}
+
+h2 {
+	font-size: 18px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #ccc;
+}
+
+h3 {
+	font-size: 16px;
+}
+
+footer {
+	margin-top: 15px;
+	border-top: 1px solid #ccc;
+}
