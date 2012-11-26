@@ -1,8 +1,4 @@
 *.TODO
-/vendor/composer
-/vendor/php-activerecord
-/vendor/twig
 .DS_Store
 .idea
 /.idea
-/vendor/hautelook
